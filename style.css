@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Space Mono', sans-serif;
+    font-size: 0.8rem;
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.card {
+    width: 275px;
+    margin: 20px auto;
+    padding: 15px 20px;
+    border: 1px solid #f2f2f2;
+    font-size: 1.13rem;
+}
+
+.info {
+    font-size: 0.7rem;
+    opacity: 0.9;
+}
+
+.gain {
+    color: #059669;
+}
+
+.loss {
+    color: #dc2626;
+}
+
